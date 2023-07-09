@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harrison Kimani
 - 👀 I’m interested in implementing impactful solutions in Python.
-- 🌱 I’m currently learning FastAPI, MongoDb and Typescript
+- 🌱 I’m currently learning FastAPI, MongoDb, and event-driven systems.
 - 💞️ I’m looking to collaborate on Python codebases built on Django, Flask or FastAPI
 
 <!---
