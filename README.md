@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harrison Kimani
 - 👀 I’m interested in implementing impactful solutions in Python.
 - 🌱 I’m currently learning Kotlin and event-driven systems.
-- 💞️ I’m looking to collaborate on Python codebases built on Django, FastAPI or Kotlin
+- 💞️ I’m looking to collaborate on Python codebases built on Django, FastAPI or Flask
 - 🏢 I'm open to Backend or SRE roles based in Europe.
