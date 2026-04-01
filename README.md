@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Harrison Kimani
 - 👀 I’m interested in implementing impactful solutions in Python.
-- 🌱 I’m currently learning Kotlin and event-driven systems.
-- 💞️ I’m looking to collaborate on Python codebases built on Python or Golang
+- 💞️ I’m looking to collaborate on codebases built in Python or Golang
 - 🏢 I'm open to Backend or SRE roles based in Europe.
